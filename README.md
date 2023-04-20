@@ -1,7 +1,7 @@
 # Massive LED Wall
 Everything you need to build a 7 foot wide LED wall that connects to your PC over Wi-Fi
 
-YouTube Tutorial: 
+YouTube Tutorial: https://www.youtube.com/watch?v=PiaS8zfuBHo&t=549s
 
 Written Instructions: 
 
